@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pip/setuptools/distutils
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ueimporter
+.ueimporter.log
+.ueimporter/
